@@ -1,4 +1,4 @@
-> **Cópia publicada pela Expert Integrado — versão 2026-09-15-4f5afc1.** Este repositório é somente leitura para alunos da Mentoria Automações Inteligentes: é a versão publicada de `claude-md-do-eric`, gerada automaticamente a partir da fonte interna (sem histórico). Dúvidas e sugestões vão pelo Portal do Aluno, não por issues aqui.
+> **Cópia publicada pela Expert Integrado — versão 2026-09-15-b322820.** Este repositório é somente leitura para alunos da Mentoria Automações Inteligentes: é a versão publicada de `claude-md-do-eric`, gerada automaticamente a partir da fonte interna (sem histórico). Dúvidas e sugestões vão pelo Portal do Aluno, não por issues aqui.
 
 # CLAUDE.md: escrever as regras da sua empresa para o agente obedecer
 
