@@ -1,5 +1,7 @@
 # <Seu nome> — CLAUDE.md global
 
+<!-- Este esqueleto é referência pra SUA IA, não pra você preencher na mão. Cole o prompt de prompt-para-o-seu-claude.md no seu Claude e deixe ele escrever o seu, com as suas regras. -->
+
 > Este arquivo carrega em TODA sessão. É orçamento de contexto, não lista aditiva: **teto <N> KB**. Entrou regra = sai regra equivalente. O que uma trava automática já garante vira ponteiro; detalhe de ferramenta vai pra memória; processo repetível vira skill.
 > Regra que existe por causa de um erro real leva a data entre parênteses: é a prova de que ela vale.
 
